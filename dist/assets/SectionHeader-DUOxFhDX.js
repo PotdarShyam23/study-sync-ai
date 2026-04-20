@@ -1,1 +1,0 @@
-import{j as e}from"./index-B_xIiPwk.js";function c({eyebrow:s,title:n,description:l,action:r}){return e.jsxs("div",{className:"section-header",children:[e.jsxs("div",{children:[s?e.jsx("p",{className:"eyebrow",children:s}):null,e.jsx("h2",{children:n}),l?e.jsx("p",{className:"muted",children:l}):null]}),r]})}export{c as S};
